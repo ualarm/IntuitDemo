@@ -1,2 +1,2 @@
 # IntuitDemo
-Demo for Intuit API test
+Demo for Intuit API test, test files are located under test folder
